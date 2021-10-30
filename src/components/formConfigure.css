@@ -1,0 +1,7 @@
+#parent-width > * {
+    margin: 0 10px;
+}
+
+#parent-height > * {
+    margin: 10px 0;
+}
